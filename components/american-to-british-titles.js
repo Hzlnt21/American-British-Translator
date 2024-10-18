@@ -4,5 +4,11 @@ module.exports = {
   'ms.': 'ms',
   'mx.': 'mx',
   'dr.': 'dr',
-  'prof.': 'prof'
+  'prof.': 'prof',
+  'mr': 'mr.',
+  'mrs': 'mrs.',
+  'ms': 'ms.',
+  'mx': 'mx.',
+  'dr': 'dr.',
+  'prof': 'prof.'
 }
